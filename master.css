@@ -1,0 +1,14 @@
+/*********************tag selector******************** */
+h1 {
+  font-size: 25px;
+  color: red;
+}
+/* img {
+  background-color: blue;
+} */
+
+/*********************Class selector******************** */
+.watermelon
+{
+  background-color: red;
+}
